@@ -1,0 +1,11 @@
+# Virtual environment
+renv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database file
+users.db
+users.db-shm
+users.db-wal
